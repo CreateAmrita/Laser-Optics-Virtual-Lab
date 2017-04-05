@@ -1,0 +1,23 @@
+md-select {
+    padding: 0px 2px 0px !important;
+}
+
+#agarose_list {
+	margin: 4px 0px 0px 12px;
+}
+
+#dna_list {
+	margin: 4px 0px 0px 12px;
+}
+
+#well {
+	margin: -18px 1px -11px 1px;
+}
+
+#well1{
+	margin: 0px -3px 12px 0px;
+}
+
+#turnon{
+	margin: 7px -25px 0px 0px;
+}

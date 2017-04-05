@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="700px" height="700px" viewBox="0 0 700 700" enable-background="new 0 0 700 700" xml:space="preserve">
+<symbol  id="holes" viewBox="-25.1 -34.7 50.2 69.4">
+	<g id="Layer_3_3_">
+		<g>
+			
+				<radialGradient id="SVGID_1_" cx="-3602.7773" cy="19.6504" r="19.6003" gradientTransform="matrix(1 0 0.22 1 3604.46 0)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.1098" style="stop-color:#967572"/>
+				<stop  offset="0.6941" style="stop-color:#160605"/>
+				<stop  offset="1" style="stop-color:#7B6864"/>
+			</radialGradient>
+			<path fill="url(#SVGID_1_)" d="M19.1,20.1c3.7-0.3,5.5-0.8,5.4-1.3c-0.1-0.6-2.1-1-6-1.4c-3.8-0.3-8.3-0.5-13.5-0.5
+				c-5.3,0-9.8,0.2-13.5,0.5s-5.4,0.8-5.3,1.4c0.1,0.5,2.1,0.9,5.9,1.3c3.8,0.3,8.4,0.4,13.6,0.4C11,20.4,15.5,20.3,19.1,20.1z"/>
+			
+				<radialGradient id="SVGID_2_" cx="-3611.707" cy="13598.3984" r="51.25" gradientTransform="matrix(1 0 8.536585e-002 0.3873 2456.7744 -5236.4097)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.1098" style="stop-color:#967572"/>
+				<stop  offset="0.2667" style="stop-color:#100000"/>
+				<stop  offset="0.6941" style="stop-color:#160605"/>
+				<stop  offset="1" style="stop-color:#7B6864"/>
+			</radialGradient>
+			<path fill="url(#SVGID_2_)" d="M7,31.8c-4.9,0-9.1,0.1-12.6,0.4c-3.4,0.3-5.1,0.6-5,1.1c0.1,0.4,1.9,0.8,5.5,1
+				c3.5,0.3,7.8,0.4,12.7,0.4s9.1-0.1,12.5-0.4c3.5-0.3,5.1-0.6,5-1c-0.1-0.5-1.9-0.8-5.5-1.1C16.1,31.9,11.9,31.8,7,31.8z"/>
+			
+				<radialGradient id="SVGID_3_" cx="-3603.6777" cy="0.7012" r="22.2497" gradientTransform="matrix(1 0 0.2202 1 3607.7305 0)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.1098" style="stop-color:#967572"/>
+				<stop  offset="0.6941" style="stop-color:#160605"/>
+				<stop  offset="1" style="stop-color:#7B6864"/>
+			</radialGradient>
+			<path fill="url(#SVGID_3_)" d="M18,4.4C21.9,4,23.8,3.6,23.8,3c-0.1-0.6-2.3-1-6.4-1.4C13.4,1.2,8.5,1,2.8,1
+				C-2.8,1-7.6,1.2-11.5,1.6C-15.4,2-17.3,2.4-17.2,3c0.1,0.5,2.2,1,6.3,1.4c4.1,0.3,9,0.4,14.6,0.4C9.3,4.8,14.1,4.7,18,4.4z"/>
+			
+				<radialGradient id="SVGID_4_" cx="-3598.54" cy="-15.0996" r="21.9995" gradientTransform="matrix(1 0 0.2199 1 3602.5146 0)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.1098" style="stop-color:#967572"/>
+				<stop  offset="0.6941" style="stop-color:#160605"/>
+				<stop  offset="1" style="stop-color:#7B6864"/>
+			</radialGradient>
+			<path fill="url(#SVGID_4_)" d="M15.8-12.2c4.1-0.4,6.1-0.9,6-1.5c-0.1-0.6-2.3-1.1-6.6-1.5c-4.2-0.4-9.3-0.6-15.1-0.6
+				c-5.8,0-10.9,0.2-15,0.6c-4.1,0.4-6.1,0.9-6,1.5c0.1,0.6,2.3,1.1,6.6,1.5c4.3,0.3,9.4,0.5,15.3,0.5S11.8-11.8,15.8-12.2z"/>
+			
+				<radialGradient id="SVGID_5_" cx="-3599.1914" cy="-32.7002" r="22.9003" gradientTransform="matrix(1 0 0.22 1 3604.0889 0)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.1098" style="stop-color:#967572"/>
+				<stop  offset="0.6941" style="stop-color:#160605"/>
+				<stop  offset="1" style="stop-color:#7B6864"/>
+			</radialGradient>
+			<path fill="url(#SVGID_5_)" d="M-18.4-30.5c4.3,0.4,9.5,0.6,15.4,0.6s10.9-0.2,15-0.6c4.1-0.4,6.1-1,6-1.7
+				c-0.2-0.7-2.4-1.3-6.8-1.8c-4.3-0.5-9.4-0.7-15.3-0.7s-11,0.2-15.1,0.7c-4.1,0.5-6.1,1.1-5.9,1.8C-24.9-31.5-22.6-30.9-18.4-30.5
+				z"/>
+		</g>
+	</g>
+</symbol>
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-128.3325" y1="525.9385" x2="1362.1903" y2="525.9385" gradientTransform="matrix(0.8227 0.5685 0.5017 -0.8688 -299.0123 537.8508)">
+			<stop  offset="0" style="stop-color:#EFDBD3"/>
+			<stop  offset="0.3647" style="stop-color:#A56835"/>
+			<stop  offset="1" style="stop-color:#4F2306"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_6_)" points="888.6,718.5 -162,718.5 -162,-4.2 888.6,-6 		"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2017-03-27 11:54+0530\n"
+"PO-Revision-Date: 2017-04-03 15:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: view.js:213
+msgid "help1"
+msgstr "Choose the laser which you need."
+
+#: view.js:213
+msgid "help2"
+msgstr "'Power On' button is for power on the interferometer."
+
+#: view.js:213
+msgid "help3"
+msgstr "'Adjust the Mirror' slider is for adjusting the mirror."
+
+#: view.js:213
+msgid "help4"
+msgstr "'Adjust Micrometer' slider is for adjusting the micrometer."
+
+#: view.js:213
+msgid "help5"
+msgstr "After that place the glass plate using 'Place Glass Plate' button."
+
+#: view.js:213
+msgid "help6"
+msgstr ""
+"'Thickness of Glass Plate' slider is for increasing the glass plate "
+"thickness."
+
+#: view.js:213
+msgid "help7"
+msgstr "'Angle of Rotation' slider is for rotating the glass plate."
+
+#: view.js:213
+msgid "help8"
+msgstr "'Reset' button is for resetting the experiment."
+
+#: view.js:213
+msgid "help9"
+msgstr "'Show result' checkbox is used to display the result."
+
+#: view.js:213
+msgid "Next"
+msgstr "Next"
+
+#: view.js:213
+msgid "Close"
+msgstr "Close"
+
+#: view.js:214
+msgid "Michelson's Interferometer - Refractive index of glass plate"
+msgstr "Michelson's Interferometer - Refractive index of glass plate"
+
+#: view.js:215
+msgid "Variables"
+msgstr "Variables"
+
+#: view.js:216
+msgid "Choose Laser"
+msgstr "Choose Laser"
+
+#: view.js:217 view.js:235
+msgid "Krypton Laser"
+msgstr "Krypton Laser"
+
+#: view.js:218
+msgid "Power On"
+msgstr "Power On"
+
+#: view.js:219
+msgid "Power Off"
+msgstr "Power Off"
+
+#: view.js:220
+msgid "Adjust Mirror"
+msgstr "Adjust Mirror"
+
+#: view.js:221
+msgid "Adjust Micrometer"
+msgstr "Adjust Micrometer"
+
+#: view.js:222
+msgid "mm"
+msgstr "mm"
+
+#: view.js:223
+msgid "Place Glass Plate"
+msgstr "Place Glass Plate"
+
+#: view.js:224
+msgid "Remove Glass Plate"
+msgstr "Remove Glass Plate"
+
+#: view.js:225
+msgid "Thickness of Glass Plate"
+msgstr "Thickness of Glass Plate: "
+
+#: view.js:226
+msgid "Angle of Rotation"
+msgstr "Angle of Rotation: "
+
+#: view.js:227
+msgid "Show Result"
+msgstr "Show Result"
+
+#: view.js:228
+msgid "Reset"
+msgstr "Reset"
+
+#: view.js:229
+msgid "Measurements"
+msgstr "Measurements"
+
+#: view.js:230
+msgid "Wavelength of Source:"
+msgstr "Wavelength of Source:"
+
+#: view.js:231
+msgid "Refractive Index of Glass Plate:"
+msgstr "Refractive Index of Glass Plate:"
+
+#: view.js:232
+msgid "copyright"
+msgstr "Copyright © Amrita University 2009 - 2015"
+
+#: view.js:239
+msgid "He - Ne Laser"
+msgstr "He - Ne Laser"
+
+#: view.js:243
+msgid "Argon Laser"
+msgstr "Argon Laser"
+
+#: view.js:247
+msgid "Ruby Laser"
+msgstr "Ruby Laser"
+
+#~ msgid "nm"
+#~ msgstr "nm"
+
+#~ msgid "RI of Glass Plate:"
+#~ msgstr "RI of Glass Plate:"
+
+#~ msgid "Brewsters Angle Determination"
+#~ msgstr "Brewsters Angle Determination"
+
+#~ msgid "Current Output Unit"
+#~ msgstr "Current Output Unit"
+
+#~ msgid "Detector"
+#~ msgstr "Detector"
+
+#~ msgid "Material Holder"
+#~ msgstr "Material Holder"
+
+#~ msgid "Polariser"
+#~ msgstr "Polariser"
+
+#~ msgid "Emitter"
+#~ msgstr "Emitter"
+
+#~ msgid "Side View"
+#~ msgstr "Side View"
+
+#~ msgid "Top View"
+#~ msgstr "Top View"
+
+#~ msgid "Choose Medium"
+#~ msgstr "Choose Medium"
+
+#~ msgid "Air"
+#~ msgstr "Air (µ = 1)"
+
+#~ msgid "Choose Material"
+#~ msgstr "Choose Material"
+
+#~ msgid "Topaz"
+#~ msgstr "Topaz (µ = 1.607)"
+
+#~ msgid "Switch On Light"
+#~ msgstr "Switch On Light"
+
+#~ msgid "Switch Off Light"
+#~ msgstr "Switch Off Light"
+
+#~ msgid "Rotate Glass Plate: "
+#~ msgstr "Rotate Glass Plate: "
+
+#~ msgid "Brewsters Angle: "
+#~ msgstr "Brewsters Angle: "
+
+#~ msgid "Helium"
+#~ msgstr "Helium (µ = 1.000036)"
+
+#~ msgid "Hydrogen"
+#~ msgstr "Hydrogen (µ = 1.000132)"
+
+#~ msgid "Carbon Dioxide"
+#~ msgstr "Carbon Dioxide (µ = 1.00045)"
+
+#~ msgid "Crown Glass"
+#~ msgstr "Crown Glass (µ = 1.52)"
+
+#~ msgid "Flint Glass"
+#~ msgstr "Flint Glass (µ = 1.57)"
+
+#~ msgid "Air ( = 1)"
+#~ msgstr "Air (µ = 1)"
+
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid "Error in initial Adjustment of the apparatus."
+#~ msgstr "Error in initial Adjustment of the apparatus."
+
+#~ msgid "Okay"
+#~ msgstr "Okay"
+
+#~ msgid "Magnetic Field Along The Axis of A Circular Coil Carrying Current"
+#~ msgstr "Magnetic Field Along The Axis of A Circular Coil Carrying Current"
+
+#~ msgid "Number of turns of the coil"
+#~ msgstr "Number of turns of the coil"
+
+#~ msgid "Initial Adjustment"
+#~ msgstr "Initial Adjustment"
+
+#~ msgid "Insert Key"
+#~ msgstr "Insert Key"
+
+#~ msgid "Reverse Current"
+#~ msgstr "Reverse Current"
+
+#~ msgid "Radius of the coil "
+#~ msgstr "Radius of the coil "
+
+#~ msgid "Compass box position "
+#~ msgstr "Compass position "
+
+#~ msgid "Adjust rheostat"
+#~ msgstr "Adjust rheostat"
+
+#~ msgid "Rotate compass box"
+#~ msgstr "Rotate compass "
+
+#~ msgid "Rotate apparatus"
+#~ msgstr "Rotate apparatus"
+
+#~ msgid "cm"
+#~ msgstr "cm"
+
+#~ msgid "Result"
+#~ msgstr "Result"
+
+#~ msgid "Show Normal"
+#~ msgstr "Show Normal"
+
+#~ msgid "Zoom Compass"
+#~ msgstr "Zoom compass"
+
+#~ msgid "Remove Key"
+#~ msgstr "Remove Key"
+
+#~ msgid "Magnetic field at"
+#~ msgstr "Magnetic field at x, ( BT ) :"
+
+#~ msgid "Circular Coil"
+#~ msgstr "Circular Coil"
+
+#~ msgid "Temperature (Y axis) Vs Time (X axis)"
+#~ msgstr "Temperature (Y axis) Vs Time (X axis)"
+
+#~ msgid "Time (in minutes)"
+#~ msgstr "Time (in minutes)"
+
+#~ msgid "Temperature"
+#~ msgstr "Temperature"
+
+#~ msgid "START"
+#~ msgstr "START"
+
+#~ msgid "Start Experiment"
+#~ msgstr "Start Experiment"
+
+#~ msgid "Thermometer reading:"
+#~ msgstr "Thermometer reading:"
+
+#~ msgid "Show Graph"
+#~ msgstr "Show Graph"
+
+#~ msgid "Brass"
+#~ msgstr "Brass"
+
+#~ msgid "Water"
+#~ msgstr "Water"
+
+#~ msgid "Plot Graph"
+#~ msgstr "Plot Graph"
+
+#~ msgid "Newton's Law of Cooling"
+#~ msgstr "Newton's Law of Cooling"
+
+#~ msgid "Select material:"
+#~ msgstr "Select material:"
+
+#~ msgid "Select liquid:"
+#~ msgstr "Select liquid:"
+
+#~ msgid "Copper"
+#~ msgstr "Copper"
+
+#~ msgid "Aluminium"
+#~ msgstr "Aluminium"
+
+#~ msgid "Silver"
+#~ msgstr "Silver"
+
+#~ msgid "Milk"
+#~ msgstr "Milk"
+
+#~ msgid "Vegetable oil"
+#~ msgstr "Vegetable oil"
+
+#~ msgid "Olive oil"
+#~ msgstr "Olive oil"
+
+#~ msgid "Start Heating"
+#~ msgstr "Start Heating"
+
+#~ msgid "Stop Heating"
+#~ msgstr "Stop Heating"
+
+#~ msgid "STOP"
+#~ msgstr "STOP"
+
+#~ msgid "Stop Plotting"
+#~ msgstr "Stop Plotting"
+
+#~ msgid "Thermometer reading: "
+#~ msgstr "Thermometer reading:"
+
+#~ msgid "Power on"
+#~ msgstr "Power on"
+
+#~ msgid "Emissivity of the test plate:"
+#~ msgstr "Emissivity of the test plate:"
+
+#~ msgid "Iron"
+#~ msgstr "Iron"
+
+#~ msgid "Steel"
+#~ msgstr "Steel"
+
+#~ msgid "Heat Transfer by Radiation"
+#~ msgstr "Heat Transfer by Radiation"
+
+#~ msgid "Choose material:"
+#~ msgstr "Choose material:"
+
+#~ msgid "Diameter of the plates (cm):"
+#~ msgstr "Diameter of the plates (cm):"
+
+#~ msgid "Thickness of the plates (cm):"
+#~ msgstr "Thickness of the plates (cm):"
+
+#~ msgid "Chamber temperature :"
+#~ msgstr "Chamber temperature :"
+
+#~ msgid "Show result"
+#~ msgstr "Show result"
+
+#~ msgid "Solution Controls"
+#~ msgstr "Solution Controls"
+
+#~ msgid "Select Environment"
+#~ msgstr "Select Environment"
+
+#~ msgid "Select type of test"
+#~ msgstr "Select type of test"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "Enter the readings:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "Gravitational Mass (in g):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "Mass of Object, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "Volume (in ml):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "Density (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1cubic centimetre=1ml"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Earth (9.8m/s&#178;)"
+#~ msgstr "Earth (9.8m/s&#178;)"
+
+#~ msgid "Moon (1.6m/s&#178;)"
+#~ msgstr "Moon (1.6m/s&#178;)"
+
+#~ msgid "Mercury (3.7m/s&#178;)"
+#~ msgstr "Mercury (3.7m/s&#178;)"
+
+#~ msgid "Find Mass"
+#~ msgstr "Find Mass"
+
+#~ msgid "Find Volume"
+#~ msgstr "Find Volume"
+
+#~ msgid "Determination of Density of Solid"
+#~ msgstr "Determination of Density of Solid"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+
+#~ msgid ""
+#~ "The mass of the object due to gravity that displayed in the spring balance"
+#~ msgstr ""
+#~ "The mass of the object due to gravity that displayed in the spring balance"
+
+#~ msgid ""
+#~ "The actual mass of the body calculated using the equation, m = "
+#~ "gravitational mass(w) x 9.8 / g(environment)"
+#~ msgstr ""
+#~ "The actual mass of the body calculated using the equation, m = "
+#~ "gravitational mass(w) x 9.8 / g(environment)"
+
+#~ msgid ""
+#~ "Final level of water (with block immersed) - Initial level of water "
+#~ "(without block immersed)"
+#~ msgstr ""
+#~ "Final level of water (with block immersed) - Initial level of water "
+#~ "(without block immersed)"
+
+#~ msgid "Density, D(g/cc) = m/v = mass divided by volume"
+#~ msgstr "Density, D(g/cc) = m/v = mass divided by volume"
+
+#~ msgid "Please enter the values"
+#~ msgstr "Please enter the values"
+
+#~ msgid "Good! Answer is correct"
+#~ msgstr "Good! Answer is correct"
+
+#~ msgid "Try Again!"
+#~ msgstr "Try Again!"
+
+#~ msgid "Cylinder"
+#~ msgstr "Cylinder"
+
+#~ msgid "Lock"
+#~ msgstr "Lock"
+
+#~ msgid "Wood"
+#~ msgstr "Wood"
+
+#~ msgid "Stone"
+#~ msgstr "Stone"
+
+#~ msgid "Bob"
+#~ msgstr "Bob"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the animal:"
+#~ msgstr "Select the animal:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#, fuzzy
+#~ msgid "Lime water"
+#~ msgstr "Lime water"
+
+#~ msgid "Click on the information icon to see the inference."
+#~ msgstr "Click on the information icon to see the inference."
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of seeds : "
+#~ msgstr "Number of seeds : "
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+#~ msgstr ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."

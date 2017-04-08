@@ -1,0 +1,9 @@
+chart {
+	display: block;
+	width: 400px;
+	height: 200px;
+}
+#site-sidenav{
+	display: none;
+	overflow-x: hidden; 
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="13px" height="90px" viewBox="0 0 13 90" enable-background="new 0 0 13 90" xml:space="preserve">
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" points="6.3,89.3 6.3,81.7 3.5,67.8 6.3,67.7 9.3,81.7 9.3,89.2 		"/>
+	</g>
+	<g>
+		<g>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#333333" fill-opacity="0.298" points="6.5,81.6 6.5,18.2 9.2,18.2 
+				9.2,81.5 			"/>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="9.2,18.2 6.5,18.2 3.7,0.8 6.1,0.8 6.1,0.8 			"/>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" fill-opacity="0.5255" points="6.5,18.2 6.5,81.6 3.7,67.7 
+				3.7,0.8 			"/>
+			
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+				M3.7,0.8h2.4v0l3.1,17.4v63.3l-2.7,0.1L3.7,67.7V0.8z M6.5,18.2L3.7,0.8 M9.2,18.2H6.5v63.4"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: d\n"
-"POT-Creation-Date: 2017-03-27 11:55+0530\n"
-"PO-Revision-Date: 2017-04-03 15:27+0530\n"
+"POT-Creation-Date: 2017-04-10 09:03+0530\n"
+"PO-Revision-Date: 2017-04-10 09:03+0530\n"
 "Last-Translator: \n"
 "Language-Team: d\n"
 "Language: hi\n"
@@ -15,137 +15,140 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: view.js:213
+#: view.js:215
 msgid "help1"
 msgstr "लेजर जो आप की जरूरत है चुनें।"
 
-#: view.js:213
+#: view.js:215
 msgid "help2"
 msgstr "बटन 'पर पावर' व्यकिकरणमीटर पर सत्ता के लिए है।"
 
-#: view.js:213
+#: view.js:215
 msgid "help3"
 msgstr "'समायोजित मिरर' स्लाइडर दर्पण एडजस्ट करने के लिए है।"
 
-#: view.js:213
+#: view.js:215
 msgid "help4"
 msgstr "'समायोजित माइक्रोमीटर' स्लाइडर माइक्रोमीटर को एडजस्ट करने के लिए है।"
 
-#: view.js:213
+#: view.js:215
 msgid "help5"
 msgstr "उस जगह कांच की प्लेट का उपयोग कर 'प्लेस ग्लास प्लेट' बटन के बाद।"
 
-#: view.js:213
+#: view.js:215
 msgid "help6"
 msgstr "स्लाइडर 'ग्लास प्लेट की मोटाई' कांच की प्लेट मोटाई बढ़ाने के लिए है।"
 
-#: view.js:213
+#: view.js:215
 msgid "help7"
 msgstr "स्लाइडर 'रोटेशन के कोण' कांच की प्लेट घूर्णन के लिए है।"
 
-#: view.js:213
+#: view.js:215
 msgid "help8"
 msgstr "'रीसेट' बटन प्रयोग रीसेट करने के लिए है।"
 
-#: view.js:213
+#: view.js:215
 msgid "help9"
 msgstr "'शो परिणाम' चेकबॉक्स परिणाम प्रदर्शित करने के लिए प्रयोग किया जाता है।"
 
-#: view.js:213
+#: view.js:215
 msgid "Next"
 msgstr "आगामी"
 
-#: view.js:213
+#: view.js:215
 msgid "Close"
 msgstr "बंद करे"
 
-#: view.js:214
-msgid "Michelson's Interferometer - Refractive index of glass plate"
-msgstr "मिचेलसों इंटरफेरोमीटर - ग्लास प्लेट के अपवर्तनांक"
+#: view.js:216
+msgid "Michelson's Interferometer - Wavelength of Laser Beam"
+msgstr "माइकलसन के इंटरफेरोमीटर - लेजर बीम के तरंग दैर्ध्य"
 
-#: view.js:215
+#: view.js:217
 msgid "Variables"
 msgstr "चर"
 
-#: view.js:216
+#: view.js:218
 msgid "Choose Laser"
 msgstr "लेजर चुनें"
 
-#: view.js:217 view.js:235
+#: view.js:219 view.js:237
 msgid "Krypton Laser"
 msgstr "क्रिप्टन लेजर"
 
-#: view.js:218
+#: view.js:220
 msgid "Power On"
 msgstr "पावर ऑन"
 
-#: view.js:219
+#: view.js:221
 msgid "Power Off"
 msgstr "बिजली बंद"
 
-#: view.js:220
+#: view.js:222
 msgid "Adjust Mirror"
 msgstr "दर्पण को समायोजित करें"
 
-#: view.js:221
+#: view.js:223
 msgid "Adjust Micrometer"
 msgstr "माइक्रोमीटर समायोजित"
 
-#: view.js:222
+#: view.js:224
 msgid "mm"
 msgstr "मिमी"
 
-#: view.js:223
+#: view.js:225
 msgid "Place Glass Plate"
 msgstr "जगह कांच की प्लेट"
 
-#: view.js:224
+#: view.js:226
 msgid "Remove Glass Plate"
 msgstr "कांच की प्लेट को दूर"
 
-#: view.js:225
+#: view.js:227
 msgid "Thickness of Glass Plate"
 msgstr "कांच की प्लेट की मोटाई: "
 
-#: view.js:226
+#: view.js:228
 msgid "Angle of Rotation"
 msgstr "रोटेशन के कोण: "
 
-#: view.js:227
+#: view.js:229
 msgid "Show Result"
 msgstr "परिणाम दिखाओ"
 
-#: view.js:228
+#: view.js:230
 msgid "Reset"
 msgstr "रीसेट"
 
-#: view.js:229
+#: view.js:231
 msgid "Measurements"
 msgstr "माप"
 
-#: view.js:230
+#: view.js:232
 msgid "Wavelength of Source:"
 msgstr "स्रोत की तरंग दैर्ध्य:"
 
-#: view.js:231
+#: view.js:233
 msgid "Refractive Index of Glass Plate:"
 msgstr "ग्लास प्लेट के अपवर्तनीय सूचकांक:"
 
-#: view.js:232
+#: view.js:234
 msgid "copyright"
 msgstr "कॉपीराइट © अमृता विश्वविद्यालय 2009 - 2015"
 
-#: view.js:239
+#: view.js:241
 msgid "He - Ne Laser"
 msgstr "ही नी लेजर"
 
-#: view.js:243
+#: view.js:245
 msgid "Argon Laser"
 msgstr "आर्गन लेजर"
 
-#: view.js:247
+#: view.js:249
 msgid "Ruby Laser"
 msgstr "रूबी लेजर"
+
+#~ msgid "Michelson's Interferometer - Refractive index of glass plate"
+#~ msgstr "माइकलसन के इंटरफेरोमीटर - लेजर बीम के तरंग दैर्ध्य"
 
 #~ msgid "nm"
 #~ msgstr "एनएम"

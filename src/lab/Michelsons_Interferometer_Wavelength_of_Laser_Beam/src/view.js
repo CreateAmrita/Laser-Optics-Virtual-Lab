@@ -213,7 +213,7 @@ function directiveFunction() {
 			function translationLabels() {
 				/** This help array shows the hints for this experiment */
 				help_array = [_("help1"), _("help2"), _("help3"), _("help4"), _("help5"), _("help6"), _("help7"), _("help8"), _("help9"), _("Next"), _("Close")];
-				scope.heading = _("Michelson's Interferometer - Refractive index of glass plate");
+				scope.heading = _("Michelson's Interferometer - Wavelength of Laser Beam");
 				scope.variables = _("Variables");
 				scope.choose_laser = _("Choose Laser");
 				scope.krypton = _("Krypton Laser");

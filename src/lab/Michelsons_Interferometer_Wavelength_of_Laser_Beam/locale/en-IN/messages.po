@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: d\n"
-"POT-Creation-Date: 2017-03-27 11:54+0530\n"
-"PO-Revision-Date: 2017-04-03 15:26+0530\n"
+"POT-Creation-Date: 2017-04-10 09:03+0530\n"
+"PO-Revision-Date: 2017-04-10 09:03+0530\n"
 "Last-Translator: \n"
 "Language-Team: d\n"
 "Language: hi\n"
@@ -15,139 +15,142 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: view.js:213
+#: view.js:215
 msgid "help1"
 msgstr "Choose the laser which you need."
 
-#: view.js:213
+#: view.js:215
 msgid "help2"
 msgstr "'Power On' button is for power on the interferometer."
 
-#: view.js:213
+#: view.js:215
 msgid "help3"
 msgstr "'Adjust the Mirror' slider is for adjusting the mirror."
 
-#: view.js:213
+#: view.js:215
 msgid "help4"
 msgstr "'Adjust Micrometer' slider is for adjusting the micrometer."
 
-#: view.js:213
+#: view.js:215
 msgid "help5"
 msgstr "After that place the glass plate using 'Place Glass Plate' button."
 
-#: view.js:213
+#: view.js:215
 msgid "help6"
 msgstr ""
 "'Thickness of Glass Plate' slider is for increasing the glass plate "
 "thickness."
 
-#: view.js:213
+#: view.js:215
 msgid "help7"
 msgstr "'Angle of Rotation' slider is for rotating the glass plate."
 
-#: view.js:213
+#: view.js:215
 msgid "help8"
 msgstr "'Reset' button is for resetting the experiment."
 
-#: view.js:213
+#: view.js:215
 msgid "help9"
 msgstr "'Show result' checkbox is used to display the result."
 
-#: view.js:213
+#: view.js:215
 msgid "Next"
 msgstr "Next"
 
-#: view.js:213
+#: view.js:215
 msgid "Close"
 msgstr "Close"
 
-#: view.js:214
-msgid "Michelson's Interferometer - Refractive index of glass plate"
-msgstr "Michelson's Interferometer - Refractive index of glass plate"
+#: view.js:216
+msgid "Michelson's Interferometer - Wavelength of Laser Beam"
+msgstr "Michelson's Interferometer - Wavelength of laser beam"
 
-#: view.js:215
+#: view.js:217
 msgid "Variables"
 msgstr "Variables"
 
-#: view.js:216
+#: view.js:218
 msgid "Choose Laser"
 msgstr "Choose Laser"
 
-#: view.js:217 view.js:235
+#: view.js:219 view.js:237
 msgid "Krypton Laser"
 msgstr "Krypton Laser"
 
-#: view.js:218
+#: view.js:220
 msgid "Power On"
 msgstr "Power On"
 
-#: view.js:219
+#: view.js:221
 msgid "Power Off"
 msgstr "Power Off"
 
-#: view.js:220
+#: view.js:222
 msgid "Adjust Mirror"
 msgstr "Adjust Mirror"
 
-#: view.js:221
+#: view.js:223
 msgid "Adjust Micrometer"
 msgstr "Adjust Micrometer"
 
-#: view.js:222
+#: view.js:224
 msgid "mm"
 msgstr "mm"
 
-#: view.js:223
+#: view.js:225
 msgid "Place Glass Plate"
 msgstr "Place Glass Plate"
 
-#: view.js:224
+#: view.js:226
 msgid "Remove Glass Plate"
 msgstr "Remove Glass Plate"
 
-#: view.js:225
+#: view.js:227
 msgid "Thickness of Glass Plate"
 msgstr "Thickness of Glass Plate: "
 
-#: view.js:226
+#: view.js:228
 msgid "Angle of Rotation"
 msgstr "Angle of Rotation: "
 
-#: view.js:227
+#: view.js:229
 msgid "Show Result"
 msgstr "Show Result"
 
-#: view.js:228
+#: view.js:230
 msgid "Reset"
 msgstr "Reset"
 
-#: view.js:229
+#: view.js:231
 msgid "Measurements"
 msgstr "Measurements"
 
-#: view.js:230
+#: view.js:232
 msgid "Wavelength of Source:"
 msgstr "Wavelength of Source:"
 
-#: view.js:231
+#: view.js:233
 msgid "Refractive Index of Glass Plate:"
 msgstr "Refractive Index of Glass Plate:"
 
-#: view.js:232
+#: view.js:234
 msgid "copyright"
 msgstr "Copyright © Amrita University 2009 - 2015"
 
-#: view.js:239
+#: view.js:241
 msgid "He - Ne Laser"
 msgstr "He - Ne Laser"
 
-#: view.js:243
+#: view.js:245
 msgid "Argon Laser"
 msgstr "Argon Laser"
 
-#: view.js:247
+#: view.js:249
 msgid "Ruby Laser"
 msgstr "Ruby Laser"
+
+#~ msgid "Michelson's Interferometer - Refractive index of glass plate"
+#~ msgstr "Michelson's Interferometer - Wavelength of Laser Beam"
 
 #~ msgid "nm"
 #~ msgstr "nm"

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="700px" height="700px" viewBox="0 0 700 700" enable-background="new 0 0 700 700" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			
+				<radialGradient id="SVGID_1_" cx="-153.8999" cy="-16.5" r="13.4125" gradientTransform="matrix(0.338 0 0 1.6438 548.5997 384.6063)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#FFFCF7"/>
+				<stop  offset="0.2667" style="stop-color:#FFFBF0"/>
+				<stop  offset="0.6196" style="stop-color:#F3FA0E"/>
+				<stop  offset="1" style="stop-color:#F3FA1A"/>
+			</radialGradient>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M496.6,340.3h0.3c0.5,0,0.9,0.2,1.2,0.5
+				c0.3,0.3,0.5,0.7,0.5,1.2v33c0,0.5-0.2,0.9-0.5,1.2c-0.3,0.3-0.7,0.5-1.2,0.5h-0.3c-0.5,0-0.9-0.2-1.2-0.5
+				c-0.3-0.3-0.5-0.7-0.5-1.2v-33c0-0.5,0.2-0.9,0.5-1.2C495.7,340.5,496.1,340.3,496.6,340.3z"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#F3FA0E" fill-opacity="0.7529" d="M514.3,432.1c5.6,5.6,8.3,12.3,8.3,20.2
+				c0,7.9-2.8,14.6-8.3,20.2c-5.6,5.6-12.3,8.4-20.2,8.4c-1.6,0-3.1-0.1-4.6-0.4c-3.5-0.4-7.1-1.7-10.6-4l-3.5-2.6
+				c-0.5-0.4-1-0.9-1.4-1.3c-5.6-5.6-8.3-12.3-8.3-20.2c0-7.9,2.8-14.6,8.3-20.2c5.6-5.6,12.3-8.4,20.2-8.4
+				C502,423.8,508.7,426.5,514.3,432.1z"/>
+		</g>
+	</g>
+	<g>
+		
+			<radialGradient id="SVGID_2_" cx="-163.9502" cy="211.8501" r="150.1875" fx="-162.1833" fy="211.8501" gradientTransform="matrix(0.338 0 0 0.3234 548.5997 383.2867)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#F7C004;stop-opacity:0"/>
+			<stop  offset="0.5098" style="stop-color:#F3FA0E;stop-opacity:0.2118"/>
+			<stop  offset="0.5686" style="stop-color:#F3FA0E;stop-opacity:0.502"/>
+			<stop  offset="0.6784" style="stop-color:#F3FA0E;stop-opacity:0.2118"/>
+			<stop  offset="1" style="stop-color:#F7C004;stop-opacity:0"/>
+		</radialGradient>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" points="447.1,407.8 538.6,407.8 554.9,501.5 
+			435.7,501.5 		"/>
+	</g>
+</g>
+</svg>

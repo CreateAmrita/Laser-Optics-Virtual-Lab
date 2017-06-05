@@ -1,0 +1,767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d\n"
+"POT-Creation-Date: 2017-04-05 14:40+0530\n"
+"PO-Revision-Date: 2017-04-05 14:40+0530\n"
+"Last-Translator: \n"
+"Language-Team: d\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: view.js:165
+msgid "help1"
+msgstr "Select the medium from 'Select Medium' drop down menu."
+
+#: view.js:165
+msgid "help2"
+msgstr "Select the source from 'Light Source' drop down menu."
+
+#: view.js:165
+msgid "help3"
+msgstr "Click 'Light On' button to view the light."
+
+#: view.js:165
+msgid "help4"
+msgstr "Choose the radius of lense using 'Radius Of Lense' slider."
+
+#: view.js:165
+msgid "help5"
+msgstr "Choose the focus value of microscope using 'Microscope Focus' slider."
+
+#: view.js:165
+msgid "help6"
+msgstr ""
+"Move the circles and microscope position  using 'Microscope Position' slider."
+
+#: view.js:165
+msgid "help7"
+msgstr "Observe the radius of each circles from the scale reading."
+
+#: view.js:165
+msgid "Next"
+msgstr "Next"
+
+#: view.js:165
+msgid "Close"
+msgstr "Close"
+
+#: view.js:167
+msgid "Newton's Rings-Refractive index of liquid"
+msgstr ""
+
+#: view.js:169
+msgid "Light On"
+msgstr "Light on"
+
+#: view.js:170
+msgid "Light Off"
+msgstr "Light Off"
+
+#: view.js:171
+#, fuzzy
+msgid "Show Result"
+msgstr "Show result"
+
+#: view.js:172
+msgid "Wavelength :"
+msgstr ""
+
+#: view.js:173
+#, fuzzy
+msgid "reset"
+msgstr "Reset"
+
+#: view.js:174
+#, fuzzy
+msgid "variables"
+msgstr "Variables"
+
+#: view.js:175
+msgid "result"
+msgstr "Result"
+
+#: view.js:176
+msgid "copyright"
+msgstr "Copyright © Amrita University 2009 - 2015"
+
+#: view.js:178
+msgid "Select Medium:"
+msgstr "Select Medium:"
+
+#: view.js:180
+msgid "Light Source"
+msgstr "Light Source"
+
+#: view.js:182
+msgid "Radius Of Lense"
+msgstr ""
+
+#: view.js:184
+msgid "Microscope Position"
+msgstr ""
+
+#: view.js:186
+msgid "Microscope Focus"
+msgstr "Microscope Focus"
+
+#: view.js:188
+msgid "cm"
+msgstr "cm"
+
+#: view.js:190
+msgid "Hz"
+msgstr ""
+
+#: view.js:192
+msgid "Air"
+msgstr ""
+
+#: view.js:192
+msgid "Water"
+msgstr "Water"
+
+#: view.js:192
+msgid "Acetone"
+msgstr "Acetone"
+
+#: view.js:193
+msgid "Isopropyl alcohol"
+msgstr ""
+
+#: view.js:193
+msgid "Kerosene"
+msgstr ""
+
+#: view.js:195
+msgid "Sodium"
+msgstr ""
+
+#: view.js:195
+msgid "Neon"
+msgstr ""
+
+#: view.js:195
+msgid "Green Light"
+msgstr ""
+
+#: view.js:195
+msgid "Red Light"
+msgstr ""
+
+#~ msgid "Slider1"
+#~ msgstr "Slider1"
+
+#~ msgid "Slider2"
+#~ msgstr "Slider2"
+
+#~ msgid "Cell numbers"
+#~ msgstr "Cell numbers"
+
+#~ msgid "Time in minutes"
+#~ msgstr "Time in minutes"
+
+#~ msgid "Bacterial Growth Curve"
+#~ msgstr "Bacterial Growth Curve"
+
+#~ msgid "Select the bacteria :"
+#~ msgstr "Select the Bacteria :"
+
+#~ msgid "Time in Mins "
+#~ msgstr "Time in Mins "
+
+#, fuzzy
+#~ msgid "Cell numbers "
+#~ msgstr "Cell numbers"
+
+#~ msgid "option1"
+#~ msgstr "Staphylococcus aureus"
+
+#~ msgid "option2"
+#~ msgstr "Escherichia coli"
+
+#~ msgid "Population of Prey:"
+#~ msgstr "Population of Prey:"
+
+#~ msgid "Population of Predator:"
+#~ msgstr "Population of Predator:"
+
+#~ msgid "help8"
+#~ msgstr "Click on the 'STATISTICS' button to view the statistics."
+
+#~ msgid "help9"
+#~ msgstr ""
+#~ "Click on the 'DATA PLOT' button to view the Graphical representation of "
+#~ "the result with the parametric values."
+
+#~ msgid "Harvesting a Prey Population"
+#~ msgstr "Harvesting a Prey Population"
+
+#~ msgid "step run"
+#~ msgstr "step run"
+
+#~ msgid "run iteration"
+#~ msgstr "run iteration"
+
+#~ msgid "pause"
+#~ msgstr "pause"
+
+#~ msgid "play"
+#~ msgstr "play"
+
+#~ msgid "statistics"
+#~ msgstr "statistics"
+
+#~ msgid "data plots"
+#~ msgstr "data plots"
+
+#~ msgid "work sheet"
+#~ msgstr "work sheet"
+
+#~ msgid "Select Population List :"
+#~ msgstr "Select Population List :"
+
+#~ msgid "Rate of growth"
+#~ msgstr "Rate of growth"
+
+#~ msgid "Carrying capacity"
+#~ msgstr "Carrying capacity"
+
+#~ msgid "Rate of harvesting"
+#~ msgstr "Rate of harvesting"
+
+#~ msgid "Population density(n1)"
+#~ msgstr "Population density(n1)"
+
+#~ msgid "Population density(n2)"
+#~ msgstr "Population density(n2)"
+
+#~ msgid "Number of steps"
+#~ msgstr "Number of steps"
+
+#~ msgid "Step size"
+#~ msgstr "Step size"
+
+#~ msgid "Spatial distribution"
+#~ msgstr "Spatial distribution"
+
+#~ msgid "Population density"
+#~ msgstr "Population density"
+
+#~ msgid "stop"
+#~ msgstr "stop"
+
+#~ msgid "Controls"
+#~ msgstr "Controls"
+
+#~ msgid "Harvesting at less than MSY"
+#~ msgstr "Harvesting at less than MSY"
+
+#~ msgid "Effect of Theta on MSY"
+#~ msgstr "Effect of Theta on MSY"
+
+#~ msgid "Platinum"
+#~ msgstr "Platinum"
+
+#~ msgid "Cu on platinum"
+#~ msgstr "Cu on platinum"
+
+#~ msgid "Platinum dish"
+#~ msgstr "Platinum dish"
+
+#~ msgid "1.000"
+#~ msgstr "1.000"
+
+#~ msgid "1"
+#~ msgstr "1"
+
+#~ msgid " Electrogravimetric Estimation of Metals"
+#~ msgstr " Electrogravimetric Estimation of Metals"
+
+#~ msgid "Voltage"
+#~ msgstr "Voltage "
+
+#~ msgid "V"
+#~ msgstr "V"
+
+#~ msgid "Resistance"
+#~ msgstr "Resistance "
+
+#~ msgid "Time"
+#~ msgstr "Time "
+
+#~ msgid "min"
+#~ msgstr "min"
+
+#~ msgid "start"
+#~ msgstr "Start"
+
+#~ msgid "Cathode :"
+#~ msgstr "Cathode :"
+
+#~ msgid "Anode :"
+#~ msgstr "Anode :"
+
+#~ msgid "Initial weight of cathode : 10 g"
+#~ msgstr "Initial weight of cathode : 10 g"
+
+#~ msgid "Total weight of cathode"
+#~ msgstr "Total weight of cathode"
+
+#~ msgid "g"
+#~ msgstr "g"
+
+#~ msgid "Show labels"
+#~ msgstr "Show labels"
+
+#~ msgid "C"
+#~ msgstr "C"
+
+#~ msgid "A"
+#~ msgstr "A"
+
+#~ msgid "D "
+#~ msgstr "D"
+
+#~ msgid "B"
+#~ msgstr "B"
+
+#~ msgid "Determination of Viscosity Average Molecular Weight of Polymer"
+#~ msgstr "Determination of Viscosity Average Molecular Weight of Polymer"
+
+#~ msgid "Fill liquid"
+#~ msgstr "Fill liquid"
+
+#~ msgid "conc of polymer(g/d):"
+#~ msgstr "Conc: of polymer (g/d) :"
+
+#~ msgid "Find time of flow of :"
+#~ msgstr "Find time of flow of :"
+
+#~ msgid "Polymer solvent system"
+#~ msgstr "Polymer solvent system"
+
+#~ msgid "Polyvinyl acetate"
+#~ msgstr "Polyvinyl acetate"
+
+#~ msgid "Acetonitrile"
+#~ msgstr "Acetonitrile"
+
+#~ msgid "Select Polymer :"
+#~ msgstr "Select Polymer :"
+
+#~ msgid "Select sample :"
+#~ msgstr "Select sample :"
+
+#~ msgid "Polymer solvant system"
+#~ msgstr "Polymer solvant system"
+
+#~ msgid "Solvent"
+#~ msgstr "Solvent system"
+
+#~ msgid "PMMA"
+#~ msgstr "PMMA"
+
+#~ msgid "Polymer Alcohol"
+#~ msgstr "Polymer Alcohol"
+
+#~ msgid "Polystyrene"
+#~ msgstr "Polystyrene"
+
+#~ msgid "Benzene"
+#~ msgstr "Benzene"
+
+#~ msgid "Toluene"
+#~ msgstr "Toluene"
+
+#~ msgid "System on/Off"
+#~ msgstr "System on/Off"
+
+#~ msgid "Light intensity"
+#~ msgstr "Light intensity"
+
+#~ msgid "Left and Right turning"
+#~ msgstr "Left and Right turning"
+
+#~ msgid "Zoom In/Out"
+#~ msgstr "Zoom In/Out"
+
+#~ msgid "Monitor out"
+#~ msgstr "Monitor out"
+
+#~ msgid "10X (low power objective lens"
+#~ msgstr "10X (low power objective lens"
+
+#~ msgid "Select view :"
+#~ msgstr "Select view :"
+
+#~ msgid "Unstained Onion epidermal cell"
+#~ msgstr "Unstained Onion epidermal cell"
+
+#~ msgid "Binocular"
+#~ msgstr "Binocular"
+
+#~ msgid "10X (low power objective lens)"
+#~ msgstr "10X (low power objective lens)"
+
+#~ msgid "40X (High power objective lens)"
+#~ msgstr "40X (High power objective lens)"
+
+#~ msgid "100X (Oil immersion objective lens)"
+#~ msgstr "100X (Oil immersion objective lens)"
+
+#~ msgid "Gram negative rods"
+#~ msgstr "Gram negative rods"
+
+#~ msgid "Gram positive cocci"
+#~ msgstr "Gram positive cocci"
+
+#~ msgid "Gram positive rods"
+#~ msgstr "Gram positive rods"
+
+#~ msgid "Gram negative cocci"
+#~ msgstr "Gram negative cocci"
+
+#~ msgid "Bacillus Subtilis (rods)"
+#~ msgstr "Bacillus Subtilis (rods)"
+
+#~ msgid "Staphylococcus aurcus ( coccus)"
+#~ msgstr "Staphylococcus aurcus ( coccus)"
+
+#~ msgid "Onion Cell"
+#~ msgstr "Onion Cell"
+
+#~ msgid "Cheek Cell"
+#~ msgstr "Cheek Cell"
+
+#~ msgid "Onion Root Tips"
+#~ msgstr "Onion Root Tips"
+
+#~ msgid ""
+#~ "Cell Organization and Sub Cellular Structure Studies (Prokaryotic and "
+#~ "Eukaryotic)"
+#~ msgstr ""
+#~ "Cell Organization and Sub Cellular Structure Studies (Prokaryotic and "
+#~ "Eukaryotic)"
+
+#~ msgid "Magnetic Field Along The Axis of A Circular Coil Carrying Current"
+#~ msgstr "Magnetic Field Along The Axis of A Circular Coil Carrying Current"
+
+#~ msgid "Number of turns of the coil"
+#~ msgstr "Number of turns of the coil"
+
+#~ msgid "Initial Adjustment"
+#~ msgstr "Initial Adjustment"
+
+#~ msgid "Insert Key"
+#~ msgstr "Insert Key"
+
+#~ msgid "Reverse Current"
+#~ msgstr "Reverse Current"
+
+#~ msgid "Radius of the coil "
+#~ msgstr "Radius of the coil "
+
+#~ msgid "Compass box position "
+#~ msgstr "Compass box position "
+
+#~ msgid "Adjust rheostat"
+#~ msgstr "Adjust rheostat"
+
+#~ msgid "Rotate compass box"
+#~ msgstr "Rotate compass box"
+
+#~ msgid "Rotate apparatus"
+#~ msgstr "Rotate apparatus"
+
+#~ msgid "Magnetic field at x, B(T)"
+#~ msgstr "Magnetic field at x, B(T)"
+
+#~ msgid "Show Normal"
+#~ msgstr "Show Normal"
+
+#~ msgid "Zoom compass"
+#~ msgstr "Zoom compass"
+
+#~ msgid "Remove Key"
+#~ msgstr "Remove Key"
+
+#~ msgid "Circular Coil"
+#~ msgstr "Circular Coil"
+
+#~ msgid "Temperature (Y axis) Vs Time (X axis)"
+#~ msgstr "Temperature (Y axis) Vs Time (X axis)"
+
+#~ msgid "Temperature"
+#~ msgstr "Temperature"
+
+#~ msgid "START"
+#~ msgstr "START"
+
+#~ msgid "Start Experiment"
+#~ msgstr "Start Experiment"
+
+#~ msgid "Measurements"
+#~ msgstr "Measurements"
+
+#~ msgid "Thermometer reading:"
+#~ msgstr "Thermometer reading:"
+
+#~ msgid "Show Graph"
+#~ msgstr "Show Graph"
+
+#~ msgid "Brass"
+#~ msgstr "Brass"
+
+#~ msgid "Plot Graph"
+#~ msgstr "Plot Graph"
+
+#~ msgid "Newton's Law of Cooling"
+#~ msgstr "Newton's Law of Cooling"
+
+#~ msgid "Copper"
+#~ msgstr "Copper"
+
+#~ msgid "Aluminium"
+#~ msgstr "Aluminium"
+
+#~ msgid "Silver"
+#~ msgstr "Silver"
+
+#~ msgid "Milk"
+#~ msgstr "Milk"
+
+#~ msgid "Vegetable oil"
+#~ msgstr "Vegetable oil"
+
+#~ msgid "Olive oil"
+#~ msgstr "Olive oil"
+
+#~ msgid "Start Heating"
+#~ msgstr "Start Heating"
+
+#~ msgid "Stop Heating"
+#~ msgstr "Stop Heating"
+
+#~ msgid "STOP"
+#~ msgstr "STOP"
+
+#~ msgid "Stop Plotting"
+#~ msgstr "Stop Plotting"
+
+#~ msgid "Thermometer reading: "
+#~ msgstr "Thermometer reading:"
+
+#~ msgid "Power on"
+#~ msgstr "Power on"
+
+#~ msgid "Emissivity of the test plate:"
+#~ msgstr "Emissivity of the test plate:"
+
+#~ msgid "Iron"
+#~ msgstr "Iron"
+
+#~ msgid "Steel"
+#~ msgstr "Steel"
+
+#~ msgid "Heat Transfer by Radiation"
+#~ msgstr "Heat Transfer by Radiation"
+
+#~ msgid "Choose material:"
+#~ msgstr "Choose material:"
+
+#~ msgid "Diameter of the plates (cm):"
+#~ msgstr "Diameter of the plates (cm):"
+
+#~ msgid "Thickness of the plates (cm):"
+#~ msgstr "Thickness of the plates (cm):"
+
+#~ msgid "Chamber temperature :"
+#~ msgstr "Chamber temperature :"
+
+#~ msgid "Select Environment"
+#~ msgstr "Select Environment"
+
+#~ msgid "Select type of test"
+#~ msgstr "Select type of test"
+
+#~ msgid "Enter the readings:"
+#~ msgstr "Enter the readings:"
+
+#~ msgid "Gravitational Mass (in g):"
+#~ msgstr "Gravitational Mass (in g):"
+
+#~ msgid "Mass of Object, m(g):"
+#~ msgstr "Mass of Object, m(g):"
+
+#~ msgid "Volume (in ml):"
+#~ msgstr "Volume (in ml):"
+
+#~ msgid "Density (g/cc):"
+#~ msgstr "Density (g/cc):"
+
+#~ msgid "1cubic centimetre=1ml"
+#~ msgstr "1cubic centimetre=1ml"
+
+#~ msgid "Check"
+#~ msgstr "Check"
+
+#~ msgid "Earth (9.8m/s&#178;)"
+#~ msgstr "Earth (9.8m/s&#178;)"
+
+#~ msgid "Moon (1.6m/s&#178;)"
+#~ msgstr "Moon (1.6m/s&#178;)"
+
+#~ msgid "Mercury (3.7m/s&#178;)"
+#~ msgstr "Mercury (3.7m/s&#178;)"
+
+#~ msgid "Find Mass"
+#~ msgstr "Find Mass"
+
+#~ msgid "Find Volume"
+#~ msgstr "Find Volume"
+
+#~ msgid "Determination of Density of Solid"
+#~ msgstr "Determination of Density of Solid"
+
+#~ msgid "SAVE"
+#~ msgstr "SAVE"
+
+#~ msgid "FULLSCREEN"
+#~ msgstr "FULLSCREEN"
+
+#~ msgid "EXIT"
+#~ msgstr "EXIT"
+
+#~ msgid ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+#~ msgstr ""
+#~ "Developed by CDAC Mumbai & Amrita University <br> Under research grant "
+#~ "from department of IT"
+
+#~ msgid ""
+#~ "The mass of the object due to gravity that displayed in the spring balance"
+#~ msgstr ""
+#~ "The mass of the object due to gravity that displayed in the spring balance"
+
+#~ msgid ""
+#~ "The actual mass of the body calculated using the equation, m = "
+#~ "gravitational mass(w) x 9.8 / g(environment)"
+#~ msgstr ""
+#~ "The actual mass of the body calculated using the equation, m = "
+#~ "gravitational mass(w) x 9.8 / g(environment)"
+
+#~ msgid ""
+#~ "Final level of water (with block immersed) - Initial level of water "
+#~ "(without block immersed)"
+#~ msgstr ""
+#~ "Final level of water (with block immersed) - Initial level of water "
+#~ "(without block immersed)"
+
+#~ msgid "Density, D(g/cc) = m/v = mass divided by volume"
+#~ msgstr "Density, D(g/cc) = m/v = mass divided by volume"
+
+#~ msgid "Please enter the values"
+#~ msgstr "Please enter the values"
+
+#~ msgid "Good! Answer is correct"
+#~ msgstr "Good! Answer is correct"
+
+#~ msgid "Try Again!"
+#~ msgstr "Try Again!"
+
+#~ msgid "Cylinder"
+#~ msgstr "Cylinder"
+
+#~ msgid "Lock"
+#~ msgstr "Lock"
+
+#~ msgid "Wood"
+#~ msgstr "Wood"
+
+#~ msgid "Bob"
+#~ msgstr "Bob"
+
+#, fuzzy
+#~ msgid "Plants"
+#~ msgstr "Plants"
+
+#, fuzzy
+#~ msgid "Animals"
+#~ msgstr "Animals"
+
+#, fuzzy
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#, fuzzy
+#~ msgid "Role of Carbon Dioxide During Respiration"
+#~ msgstr "Role of Carbon Dioxide During Respiration"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers:"
+#~ msgstr "Number of grasshoppers:"
+
+#, fuzzy
+#~ msgid "Select the indicator:"
+#~ msgstr "Select the indicator:"
+
+#, fuzzy
+#~ msgid "Grasshopper"
+#~ msgstr "Grasshopper"
+
+#, fuzzy
+#~ msgid "Human being"
+#~ msgstr "Human being"
+
+#, fuzzy
+#~ msgid "Lime water"
+#~ msgstr "Lime water"
+
+#~ msgid "Click on the information icon to see the inference."
+#~ msgstr "Click on the information icon to see the inference."
+
+#, fuzzy
+#~ msgid "Number of seeds : 10"
+#~ msgstr "Number of seeds : 10"
+
+#, fuzzy
+#~ msgid "Number of grasshoppers : "
+#~ msgstr "Number of grasshoppers : "
+
+#, fuzzy
+#~ msgid ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+#~ msgstr ""
+#~ "Presence of CO<sub>2</sub> in the test tube, turns the blue BTB indicator "
+#~ "to green."
+
+#, fuzzy
+#~ msgid "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+#~ msgstr "Presence of CO<sub>2</sub> in the test tube, turns limewater milky."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the "
+#~ "grasshoppers."
+
+#, fuzzy
+#~ msgid ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."
+#~ msgstr ""
+#~ "Level of water in the delivery tube rises up due to the release of "
+#~ "CO<sub>2</sub> in the conical flask during the respiration of the seeds."

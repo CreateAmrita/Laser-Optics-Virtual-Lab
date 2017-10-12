@@ -1,0 +1,55 @@
+chart {
+	display: block;
+	width: 400px;
+	height: 200px;
+}
+#site-sidenav{
+	display:none;
+	overflow-x: hidden; 
+}
+#graphDiv {
+    position: absolute;
+    left: 59%;
+    top: 8.2%;
+    opacity: 1;
+    height: 29%;
+    width: 36.1%;
+    display: none;
+    
+}
+/*#graphDiv canvas {
+	width: 96%;
+}*/
+ @media only screen and (min-width: 499px) and (max-width: 709px) {
+	#graphDiv {
+		top: 10.2%;
+        height: 27%;
+        width: 34.1%;
+
+	}
+}
+ @media only screen and (min-width: 360px) and (max-width: 499px) {
+	#graphDiv {
+        left: 58.8%;
+        top: 10.5%;
+        height: 27%;
+        width: 33%;
+	}
+}
+ @media only screen and (min-width: 300px) and (max-width: 359px) {
+	#graphDiv {
+        left: 58.8%;
+        top: 13.5%;
+        height: 24.2%;
+        width: 31.8%;
+	}
+}
+
+ @media only screen and (min-width: 200px) and (max-width: 299px) {
+	#graphDiv {
+		left: 58.8%;
+        top: 13.5%;
+        height: 24.2%;
+        width: 30.8%;
+	}
+}

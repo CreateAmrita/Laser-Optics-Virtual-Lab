@@ -1,0 +1,41 @@
+#site-sidenav{
+	display:none;
+	overflow-x: hidden; 
+}
+#showGraph > :first-child {
+	left: 85px;
+}
+#graphDiv {
+	position: absolute;
+	left: 54.8%;
+	top: 8%;
+	opacity: 1;
+	height: 24.4%;
+	width: 38.5%;
+	display: none;
+}
+ @media only screen and (min-width: 360px) and (max-width: 499px) {
+	#graphDiv {
+		left: 54.8%;
+		top: 10.5%;
+		height: 24%;
+		width: 37%;
+	}
+}
+ @media only screen and (min-width: 300px) and (max-width: 359px) {
+	#graphDiv {
+		left: 54.8%;
+		top: 12.5%;
+		height: 21.2%;
+		width: 34.8%;
+	}
+}
+
+ @media only screen and (min-width: 200px) and (max-width: 299px) {
+	#graphDiv {
+		left: 54.8%;
+		top: 13.5%;
+		height: 20.2%;
+		width: 33.8%;
+	}
+}

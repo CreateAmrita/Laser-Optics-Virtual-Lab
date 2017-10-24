@@ -1,0 +1,84 @@
+md-select {
+    padding: 0px 2px 0px !important;
+}
+
+#show_direction{
+	margin: -6px 0px -12px 63px;
+}
+
+#material_list{
+	margin: 6px 0px -7px 13px;
+}
+
+#environment_list{
+	margin: 6px 0px -7px 13px;
+}
+
+.slider_value{
+	margin: -8px 0px -10px 0px;
+}
+
+#reset{
+	margin: -4px 0px 11px 2px;
+}
+
+#switchOn {
+    margin-bottom: 2em;
+}
+ 
+#show_result{
+	margin: 7px 0px -2px 19px;
+}
+
+#site-sidenav{
+	display: none;
+	overflow-x: hidden; 
+}
+
+#graphDiv {
+	display: block;
+    overflow: hidden;
+    background: #FFFFFF;
+    position: absolute;
+    top:5.6%;
+	left: 51%;
+    height: 39%;
+    width: 45%;    
+}
+.horizTranslate {
+  -webkit-transition: 3s;
+  -moz-transition: 3s;
+  -ms-transition: 3s;
+  -o-transition: 3s;
+  transition: 3s;
+  margin-left: 50% !important;
+}
+
+/*  @media only screen and (min-width: 320px) and (max-width: 359px) {
+	#graphDiv {
+    left: 13%;
+    height: 21%;
+    width: 42%;
+	}
+}
+
+ @media only screen and (min-width: 360px) and (max-width: 480px) {
+	#graphDiv {
+    left: 13%;
+    height: 21%;
+    width: 42%;
+
+	}
+}
+
+
+
+
+ @media only screen and (min-width: 500px) and (max-width: 1024px) {
+	#graphDiv {
+		    left: 7.5%;
+
+    height: 22%;
+        
+	}
+} */
